@@ -1,6 +1,6 @@
 ###  Bill Zhang
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-kiriglu-pink)](https://www.instagram.com/kiriglu) [![Weibo Badge](https://img.shields.io/badge/Weibo-FogDong-red)](https://weibo.com/wuwuglu)  [![Twitter Badge](https://img.shields.io/badge/-FogDong-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fog_glutamine)](https://twitter.com/fog_glutamine)  [![Gmail Badge](https://img.shields.io/badge/-wuwuglu19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wuwuglu19@gmail.com)](mailto:wuwuglu19@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zhenguo251@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhenguo251@gmail.com)](mailto:zhenguo251@gmail.com)
 
 ***
 
@@ -10,7 +10,7 @@
 -  **Languages :** Golang, C
 -  **Organization :** @IFLYTEK
 
-I'm currently working on [KubeVela](https://github.com/oam-dev/kubevela):sparkles:.
+I'm currently working on [Kubernetes]([https://github.com/oam-dev/kubevela](https://github.com/kubernetes/kubernetes)):sparkles:.
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zhenguozhang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
