@@ -6,9 +6,9 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open Source :fire:	
--  **Languages :** Golang, NodeJS
--  **Organization :** @Alibaba
+-  **Learning :** Backend Development :zap: | Open Source :fire:	
+-  **Languages :** Golang, C
+-  **Organization :** @IFLYTEK
 
 I'm currently working on [KubeVela](https://github.com/oam-dev/kubevela):sparkles:.
 
